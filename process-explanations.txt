@@ -1,0 +1,73 @@
+Module 2_Week 2_Required Assignment_Cheong Jonathan 
+
+This text file contains key steps and commands i followed to complete this assignment,
+demonstrating how i worked through each task.
+
+
+For more details please refer to my screenshots in my PDF file.
+
+
+--------------
+
+
+
+
+Key Steps
+This document summarizes the steps taken to complete the Module 2, Week 2 Assignment.
+
+Task 1: Git Initialization and First Commit
+Git Initialization:
+
+Initialized a new Git repository using git init.
+First Commit (README.md):
+
+Created a README.md file and committed it to the main branch.
+
+
+--------
+
+
+Task 2: Branch Creation and Feature Addition
+Create and Switch to Feature Branch (featurex):
+
+Created a new branch called featurex and switched to it using git branch featurex and git switch featurex.
+Added feature.py file:
+
+Created a new Python file feature.py with the add_numbers function and committed it to the featurex branch.
+
+
+---------
+
+
+Task 3: Modifying README.md and Merging Conflicts
+Modified README.md on main branch:
+
+Switched to the main branch and modified the README.md, committing the changes.
+Modified README.md on featurex branch:
+
+Switched back to featurex and modified README.md again.
+Merge Conflict Resolution:
+
+Merged featurex into main, resolving a merge conflict in the README.md manually.
+
+----------
+
+
+Task 4: Pushing Changes and Pull Request Creation
+Push main branch to GitHub:
+
+Pushed the changes from the main branch to GitHub.
+Create New Branch (collaborator-update) for Collaboration:
+
+Created a new branch for further changes and pushed it to GitHub.
+Merged collaborator-update into main:
+
+Merged the changes from collaborator-update into main and pushed to GitHub.
+
+-----------
+
+
+
+Key Files
+feature.py - Contains the add_numbers function.
+README.md - Document outlining the steps and details of the assignment.
